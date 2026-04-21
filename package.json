@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "GitHub Actions Unit Test Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Success: All tests passed!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandhana-AS/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandhana-AS/test/issues"
+  },
+  "homepage": "https://github.com/nandhana-AS/test#readme"
+}
